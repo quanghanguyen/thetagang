@@ -9,7 +9,7 @@
 
 [account]
 # The account number to operate on
-number = "DU1234567"
+number = "DU5766065"
 
 # Cancel any existing orders for the symbols configured at startup
 cancel_orders = true
