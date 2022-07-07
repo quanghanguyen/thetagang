@@ -217,6 +217,6 @@ retryDelay = 2
 
 [watchdog.probeContract]
 currency = 'USD'
-exchange = 'PAXOS'
+exchange = 'SMART'
 secType = 'STK'
-symbol = 'BTC'
+symbol = 'AAPL'
